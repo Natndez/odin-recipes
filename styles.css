@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(234, 194, 142);
+    text-align: left;
+    list-style-position: unset;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+img {
+    width: 450px;
+    height: auto;
+    border: 3px solid black;
+}
+
+.title {
+    font-family: 'Brush Script MT', Georgia, 'Times New Roman', Times, serif, Courier, monospace;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.title.main-page {
+    font-size: 55px;
+}
+
+.heading,
+.subheading {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(40, 79, 143);
+    font-size: 30px;
+}
+
+.subheading {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#main-page-link {
+    color: orchid;
+    font-weight: 800;
+    font-size: 22px;
+}
