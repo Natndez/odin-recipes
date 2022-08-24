@@ -12,6 +12,12 @@ img {
     border: 3px solid black;
 }
 
+.hyper-links li a {
+    color: rgb(10, 70, 200);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
 .title {
     font-family: 'Brush Script MT', Georgia, 'Times New Roman', Times, serif, Courier, monospace;
     font-weight: 600;
