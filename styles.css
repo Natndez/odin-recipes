@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(234, 194, 142);
+    background-color: rgb(219, 138, 32);
     text-align: left;
     list-style-position: unset;
     font-size: 18px;
@@ -12,10 +12,21 @@ img {
     border: 3px solid black;
 }
 
+.center-align {
+    margin: auto;
+    width: 50%;
+    background-color: rgb(198, 128, 37);
+    padding-top: 15px;
+    padding-bottom: 400px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
 .hyper-links li a {
-    color: rgb(10, 70, 200);
+    color: rgb(12, 80, 228);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 100;
+    font-weight: 500;
 }
 
 .title {
@@ -41,7 +52,7 @@ img {
 }
 
 #main-page-link {
-    color: orchid;
-    font-weight: 800;
+    color: rgb(255, 129, 251);
+    font-weight: 400;
     font-size: 22px;
 }
